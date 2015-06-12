@@ -1,4 +1,4 @@
-# nelson.ganga-inacapmail.cl
+# nelson.ganga@inacapmail.cl
 Sección 70 Fundamentos de programación 
  
  /* La finalidad de este programana es pedir al usuario dos numeros enteros y 
